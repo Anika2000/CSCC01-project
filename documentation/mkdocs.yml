@@ -1,0 +1,12 @@
+site_name: Easy Apply
+nav:
+    - Home: index.md
+    - Team: team.md
+    - ComponentsFrontend: ComponentsFrontend.md
+    - FunctionsFrontend: FunctionsFrontend.md
+    - JobApi: JobApi.md
+    - JobFairApi: JobFairApi.md
+    - MeetingAPI: MeetingAPI.md
+    - ProfileAPI: ProfileAPI.md
+    - UserAPI: UserAPI.md
+theme: readthedocs
